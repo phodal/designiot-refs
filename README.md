@@ -1,7 +1,6 @@
 Design IoT Refrences
 ===
 
-
 第一章
 ---
 
@@ -60,8 +59,19 @@ Design IoT Refrences
  - 《机器学习实战》
  - 《集体智慧编程》
 
+杂项
+===
  
- 
+Python教程
+---
+
+[Python 2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a0000)
+
+Ionic教程
+---
+
+
+
   
  
 
